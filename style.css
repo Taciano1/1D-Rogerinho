@@ -1,6 +1,19 @@
 
-body {background-color: pink}
-h3 {color: red}
+
+header {text-align: center;}
+
+#enrolado {
+  width: 80%;
+  height: 200px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 0px;
+
+}
+
+
+body {background-color: green}
+h3 {color: #B22222}
 p {color: gray}
 b {color: yellow}
 i {color: blue}
